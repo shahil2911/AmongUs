@@ -1,0 +1,20 @@
+
+.checked {
+    color: orange;
+  }
+.responsive{
+    width: auto;
+    height: 90px;
+}
+.club{
+    
+    padding: 3% 2%;
+}
+.featurette-divider{
+    border-top: 1px dotted rgb(0, 255, 242); 
+        border-width: 5px;
+}
+.row{
+    color:white;
+    background-color: rgb(32, 46, 53);
+}

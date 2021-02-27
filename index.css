@@ -1,0 +1,24 @@
+.club{
+    background-color: black;
+}
+.chapters{
+    background-color: black;
+}
+.checked {
+    color: orange;
+  }
+.responsive{
+    width: auto;
+    height: 90px;
+}
+.club{
+    
+    padding: 3% 2%;
+}
+.featurette-divider{
+    border-top: 1px dotted rgb(0, 255, 242); 
+        border-width: 5px;
+}
+#grad {
+    background-image: linear-gradient(to bottom right, rgb(19, 7, 59), rgb(80, 16, 88));
+  }
